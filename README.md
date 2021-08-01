@@ -11,7 +11,7 @@ Jot is a micro-notes app that is 100% private, open source, and automatically sy
 * Expo
 * Expo Electron
 * Typescript
-* [OrbitDB Docs]((https://github.com/orbitdb/orbit-db/blob/main/API.md#orbitdbdocsnameaddress-options) type database.
+* [OrbitDB Docs](https://github.com/orbitdb/orbit-db/blob/main/API.md#orbitdbdocsnameaddress-options) type database.
 * Yarn
 
 ## Roadmap
