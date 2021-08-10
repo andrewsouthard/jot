@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jot",
-    "slug": "jot",
+    "name": "Jot",
+    "slug": "Jot",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
-      "**/*"
+    "**/*"
     ],
     "ios": {
       "supportsTablet": true
